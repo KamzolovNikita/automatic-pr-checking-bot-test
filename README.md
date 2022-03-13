@@ -2,4 +2,4 @@
 
 | Surname | Name | github | stepik id | lb1 |
 |:---------:|:------:|:----------:|:--------:|:-:|
-| Kolovanov | Rodion | rkolovanov | 36307378 | + |
+| Kamzolov | Nikita | KamzolovNikita | 36307378 |  |
